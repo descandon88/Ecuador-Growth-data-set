@@ -1,2 +1,2 @@
 # Ecuador-growth-data-set
-Data set and indicators of Ecuador growth
+Data set and indicators of Ecuador growth and industry sector.
