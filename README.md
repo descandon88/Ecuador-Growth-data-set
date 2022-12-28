@@ -4,6 +4,7 @@ Incluye datos, métodos y papers de referencia para tesis de maestría
 1. https://www.ecuadorencifras.gob.ec/directoriodeempresas/
 # Data set
 1. GDP per Capita of Ecuador: <a href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=EC" target="_blank">Link</a>
+2. GDP per capita (current US$) - The World Bank data base: <a href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD">Link<a>
 2. National GDP: <a href="https://docs.google.com/spreadsheets/d/1cMMWjKgL30rdH20yr7OasEhe6fXz0JPKhSTO3YdP5Hs/edit?usp=sharing">Link</a>
 # Papers
 1. A NETWORK VIEW OF ECONOMIC DEVELOPMENT, CÉSAR A. HIDALGO, RICARDO HAUSMANN, <a href="https://static1.squarespace.com/static/5759bc7886db431d658b7d33/t/5783bd92b3db2b8f172eb722/1468251540792/HidalgoHausmann_DAI_2008.pdf" target="_blank">Paper</a>
