@@ -24,7 +24,7 @@ def calc_prody(data,pais_col,prod_col,anio_col,export_col, gdp_per_capita_col):
     df_prody = pd.merge(df_prody,data[[anio_col,pais_col,prod_col,export_col,gdp_per_capita_col]],how='left',on=[anio_col,pais_col,prod_col])
     df_prody.loc[df_prody[export_col].isnull(),export_col] = 0
 
-    print('Se hace el calculo de RCEA')
+    print('Se hace el calculo de RCA')
 
     df_prody['Xcpt'] = df_prody[export_col]
     df_prody['Xct'] = df_prody.groupby([pais_col, anio_col])[export_col].transform(sum)
